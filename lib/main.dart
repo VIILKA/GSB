@@ -11,7 +11,7 @@ Future<void> main() async {
   );
 
   OneSignal.Debug.setLogLevel(OSLogLevel.verbose);
-  OneSignal.initialize('b4e23d20-b0b1-4c1c-a512-d6cfa94976e7');
+  OneSignal.initialize('7ee27b33-f5eb-4123-b414-627fb6b2fa8e');
   OneSignal.Notifications.requestPermission(true);
   runApp(const MainApp());
 }
