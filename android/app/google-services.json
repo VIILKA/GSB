@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172801266955",
+    "project_id": "gsb1-17288",
+    "storage_bucket": "gsb1-17288.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172801266955:android:2c61579c570e948749be0e",
+        "android_client_info": {
+          "package_name": "com.betterstreams.gsb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhf-hFw_doNGgeu4bq-CCTvKih4gkbde0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
